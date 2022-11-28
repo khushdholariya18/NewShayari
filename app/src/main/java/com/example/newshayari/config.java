@@ -3,7 +3,6 @@ package com.example.newshayari;
 import java.io.File;
 
 public class config {
-    //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
 
     public static File file;
 
