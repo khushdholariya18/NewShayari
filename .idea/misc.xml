@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/NewShayari/app/src/main/res/drawable/btn.xml" value="0.1575" />
+        <entry key="..\:/Android/NewShayari/app/src/main/res/drawable/g1.xml" value="0.1575" />
+        <entry key="..\:/Android/NewShayari/app/src/main/res/drawable/g10.xml" value="0.1575" />
+        <entry key="..\:/Android/NewShayari/app/src/main/res/drawable/g11.xml" value="0.1575" />
+        <entry key="..\:/Android/NewShayari/app/src/main/res/drawable/g12.xml" value="0.1575" />
+        <entry key="..\:/Android/NewShayari/app/src/main/res/drawable/g2.xml" value="0.1575" />
+        <entry key="..\:/Android/NewShayari/app/src/main/res/drawable/g3.xml" value="0.1575" />
+        <entry key="..\:/Android/NewShayari/app/src/main/res/drawable/g4.xml" value="0.1575" />
+        <entry key="..\:/Android/NewShayari/app/src/main/res/drawable/g5.xml" value="0.1575" />
+        <entry key="..\:/Android/NewShayari/app/src/main/res/drawable/g6.xml" value="0.1575" />
+        <entry key="..\:/Android/NewShayari/app/src/main/res/drawable/g7.xml" value="0.1575" />
+        <entry key="..\:/Android/NewShayari/app/src/main/res/drawable/g8.xml" value="0.1575" />
+        <entry key="..\:/Android/NewShayari/app/src/main/res/drawable/g9.xml" value="0.1575" />
+        <entry key="..\:/Android/NewShayari/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Android/NewShayari/app/src/main/res/layout/activity_pencil.xml" value="0.25" />
+        <entry key="..\:/Android/NewShayari/app/src/main/res/layout/activity_shayari.xml" value="0.25" />
+        <entry key="..\:/Android/NewShayari/app/src/main/res/layout/activity_shayri_list.xml" value="0.25" />
+        <entry key="..\:/Android/NewShayari/app/src/main/res/layout/backgraound_layout.xml" value="0.25" />
+        <entry key="..\:/Android/NewShayari/app/src/main/res/layout/category_item.xml" value="0.25" />
+        <entry key="..\:/Android/NewShayari/app/src/main/res/layout/emoji_layout.xml" value="0.25" />
+        <entry key="..\:/Android/NewShayari/app/src/main/res/layout/expand_layout.xml" value="0.24895833333333334" />
+        <entry key="..\:/Android/NewShayari/app/src/main/res/layout/extra_backgraound_item.xml" value="0.25" />
+        <entry key="..\:/Android/NewShayari/app/src/main/res/layout/extra_category_item.xml" value="0.25" />
+        <entry key="..\:/Android/NewShayari/app/src/main/res/layout/extra_emoji_item.xml" value="0.25" />
+        <entry key="..\:/Android/NewShayari/app/src/main/res/layout/extra_expand_item.xml" value="0.25" />
+        <entry key="..\:/Android/NewShayari/app/src/main/res/layout/extra_font_item.xml" value="0.24895833333333334" />
+        <entry key="..\:/Android/NewShayari/app/src/main/res/layout/extra_pencil_item.xml" value="0.25" />
+        <entry key="..\:/Android/NewShayari/app/src/main/res/layout/extra_shayari_item.xml" value="0.24895833333333334" />
+        <entry key="..\:/Android/NewShayari/app/src/main/res/layout/extra_shayrilist_item.xml" value="0.25" />
+        <entry key="..\:/Android/NewShayari/app/src/main/res/layout/font_layout.xml" value="0.25" />
+        <entry key="..\:/Android/NewShayari/app/src/main/res/layout/shayrilist_item.xml" value="0.25" />
+        <entry key="..\:/Android/NewShayari/app/src/main/res/layout/textsize_layout.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
